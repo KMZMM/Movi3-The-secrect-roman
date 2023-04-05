@@ -1,1 +1,494 @@
-[{"title":"Episode1 (mm-sub)","link":"https://picture.kyansitthar.xyz/file/msubyoteshinyelay/Maung/1-9-2021/M/21/bGVvbmFyZG8tY29sbGVjdGlvbiA/M%20%287%29.txt"},{"title":"The Secrect Romance 1","link":"https://picture.kyansitthar.xyz/file/msubyoteshinyelay/Maung/1-9-2021/M/21/bGVvbmFyZG8tY29sbGVjdGlvbiA/M%20%287%29.txt"}]
+[
+ 
+            {
+                "id": "25",
+                "title": "တရားတော်များ",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/28129_tayartawmyar.jpg",
+                "url": "https://thitsarparami.org/mp3_dhamma_talk",
+                "type": "2"
+            },
+            {
+                "id": "26",
+                "title": "Sports Zone",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/7306_sports zone two.jpg",
+                "url": "https://tructiep.vebo3.org/",
+                "type": "2"
+            },
+            {
+                "id": "27",
+                "title": "Goal Scores",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/63593_Goal Scores.png",
+                "url": "https://www.365scores.com/mm",
+                "type": "2"
+            },
+            {
+                "id": "28",
+                "title": "Mahar ESports Channel",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/18830_Mahar ESports Channel.jpg",
+                "url": "https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "29",
+                "title": "MM Movies",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/59427_MM Movies.jpg",
+                "url": "https://linktr.ee/thutaliveapp",
+                "type": "2"
+            },
+            {
+                "id": "30",
+                "title": "MRTV - 4",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/5489_mrtv4.jpg",
+                "url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjMgMjozMDoyMCBQTSZoYXNoX3ZhbHVlPTh4aVpCbHZ2MTA3eVI5cVoxNVpKL0E9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTM=",
+                "type": "1"
+            },
+            {
+                "id": "31",
+                "title": "CHANNEL - 7",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/81851_ch7 card design.jpg",
+                "url": "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjMgMjozMzowNiBQTSZoYXNoX3ZhbHVlPWxlamhSczN5WnB4VUJrTTFQbWtEMXc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTU=",
+                "type": "1"
+            },
+            {
+                "id": "32",
+                "title": "Mahar - TV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/13960_mahar logo.jpg",
+                "url": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "33",
+                "title": "MNTV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/47480_mntv logo.jpg",
+                "url": "http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "34",
+                "title": "Channel Me",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/80960_channel me hd.jpg",
+                "url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDk6NDggUE0maGFzaF92YWx1ZT14bmFGNVhHRWlmS3Z0eEFyVW44R293PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTI1",
+                "type": "1"
+            },
+            {
+                "id": "46",
+                "title": "Channel K",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/89836_channel k.jpg",
+                "url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "50",
+                "title": "MWD HD",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/53781_MWD HD.jpg",
+                "url": "http://203.81.84.130/hls/mwd/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "51",
+                "title": "MWD Movies",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/63351_MWD movies.jpg",
+                "url": "http://203.81.84.130/hls/mwd_serie/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "52",
+                "title": "MWD Documentary",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/82701_mwd doc.jpg",
+                "url": "http://203.81.84.130/hls/mwd_document/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "53",
+                "title": "MWD Variety",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/5461_mwd var.jpg",
+                "url": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "54",
+                "title": "MWD Family",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/46410_mwd family.jpg",
+                "url": "http://203.81.84.130/hls/mwd_family/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "55",
+                "title": "MWD Shopping",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/51943_mwd shopping.jpg",
+                "url": "http://203.81.84.130/hls/mwd_shopping/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "57",
+                "title": "Myanmar Music",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/72663_mm music.jpg",
+                "url": "https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "58",
+                "title": "Channel 9",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/39081_channel 9 hd.jpg",
+                "url": "http://183.89.246.119:8881/play/a07y/index.m3u8",
+                "type": "3"
+            },
+            {
+                "id": "59",
+                "title": "Myanmar Cast",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/31987_myanmar cast.jpg",
+                "url": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "60",
+                "title": "NHK World",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/60878_NHK World.jpg",
+                "url": "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "93",
+                "title": "CGTN",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/21818_cgtn channel.jpg",
+                "url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "122",
+                "title": "K POP Music",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/70435_kpop channel.jpg",
+                "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "123",
+                "title": "MTV Yo!",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/26405_mtv yo channel.jpg",
+                "url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "125",
+                "title": "MTV Biggest Pop",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/91375_biggest pop channel.jpg",
+                "url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "127",
+                "title": "SUN Music",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/65278_sun music channel.jpg",
+                "url": "http://uk1.zecast.com:1935/star-live/smusic/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "128",
+                "title": "Thai 3D Channel",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/17658_thairath tv.jpg",
+                "url": "http://live.thairath.co.th:80/trtv2/playlist_720p/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "130",
+                "title": "Cartoon Network",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/72545_CN Channel.jpg",
+                "url": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "143",
+                "title": "Nick",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/79631_nick channel.jpg",
+                "url": "https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "144",
+                "title": "Asian Food Network",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/25016_afn channel.jpg",
+                "url": "https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "145",
+                "title": "DW News",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/70854_dw channel.jpg",
+                "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "148",
+                "title": "One Golf",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/8030_one golf channel.jpg",
+                "url": "http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "159",
+                "title": "Tennis Channel",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/21323_Tennis channel.jpg",
+                "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "191",
+                "title": "Fite Sport",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/61740_fite channel.jpg",
+                "url": "https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "192",
+                "title": "Kick Boxing",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/16468_kick boxing channel.jpg",
+                "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "196",
+                "title": "Net Geo Wild HD",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/56505_NGW.jpg",
+                "url": "http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "198",
+                "title": "Fight Sport",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/61815_fight sport channel.jpg",
+                "url": "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "199",
+                "title": "MMA TV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/62259_MMATV2.png",
+                "url": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/mid/c.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "213",
+                "title": "EDGE Sport 1",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/51472_edge1.jpg",
+                "url": "https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "214",
+                "title": "EDGE Sport 2",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/37449_edge2.jpg",
+                "url": "https://edgesport-samsungus.amagi.tv/playlist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "215",
+                "title": "EDGE Sport 3",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/9772_edge3.jpg",
+                "url": "https://edgesports-plex.amagi.tv/playlist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "216",
+                "title": "EDGE Sport 4",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/68825_edge4.jpg",
+                "url": "https://edgesports-row-rakuten.amagi.tv/playlist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "240",
+                "title": "FOX News",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/2860_fox news ch.png",
+                "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "241",
+                "title": "France 24",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/31205_france 24 ch.png",
+                "url": "https://www.youtube.com/embed/h3MuIUNCCzI",
+                "type": "2"
+            },
+            {
+                "id": "243",
+                "title": "NEWSMAX",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/10149_newsmax.png",
+                "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/1280x720_2780800/chunklist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "244",
+                "title": "DUBAI RACING 1",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/58832_DUBAI RACING 1.jpg",
+                "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "245",
+                "title": "DUBAI RACING 2",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/45055_DUBAI RACING 2.jpg",
+                "url": "https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "250",
+                "title": "Fashion TV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/12678_fashiontv ch.jpg",
+                "url": "https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "258",
+                "title": "Test CH",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/54279_test.png",
+                "url": "http://175.107.244.52:4455/play/a00v/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "262",
+                "title": "HORSE & COUNTRY",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/66315_HORSE & COUNTRY channel.jpg",
+                "url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "263",
+                "title": "Chef Champion",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/93759_chef champion ch.jpg",
+                "url": "https://rpn1.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "267",
+                "title": "Al Jazeera English",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/91594_Al Jazeera English Channel.jpg",
+                "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "269",
+                "title": "CNA News",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/56787_CNA News.jpg",
+                "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "275",
+                "title": "NASA TV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/77971_Nasa TV.jpg",
+                "url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7",
+                "type": "1"
+            },
+            {
+                "id": "277",
+                "title": "Nick Jr",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/81721_nick jr.jpg",
+                "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY",
+                "type": "1"
+            },
+            {
+                "id": "319",
+                "title": "SPOTV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/62242_spotv1.jpg",
+                "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656150570~exp=9007200910891561~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=92ac9dec73664c7cb15bbd0eae68f0bbea6d2e11f770fef22e14fa5113b18c2e",
+                "type": "1"
+            },
+            {
+                "id": "323",
+                "title": "MOVIE SPHERE",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/87984_MOVIE SPHERE CH.jpg",
+                "url": "http://moviesphere-roku.amagi.tv:80/playlist720lp.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "371",
+                "title": "VH+",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/62706_vh+ ch.jpg",
+                "url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "372",
+                "title": "EBS Kids",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/50900_EBS kids ch.jpg",
+                "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist_w481041099.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "373",
+                "title": "BEK Sport",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/5836_BEK Sport ch.jpg",
+                "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b3596000_slENG.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "374",
+                "title": "PBS Kids",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/95847_pbs kids ch.jpg",
+                "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "384",
+                "title": "Man U TV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/96476_Man U TV.jpg",
+                "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "386",
+                "title": "Real Madrid TV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/45986_Real Madrid TV.jpg",
+                "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545",
+                "type": "1"
+            },
+            {
+                "id": "450",
+                "title": "Mizzima TV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/17686_Mizzima TV.jpg",
+                "url": "https://mizzima-live.b-cdn.net/live2.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "451",
+                "title": "Mizzima Plus",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/70596_Mizzima Plus.jpg",
+                "url": "https://mizzima-live.b-cdn.net/live1.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "452",
+                "title": "fortune TV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/62469_fortune TV.jpg",
+                "url": "http://183.89.246.119:8881/play/a082/index.m3u8",
+                "type": "3"
+            },
+            {
+                "id": "453",
+                "title": "YTV",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/77764_YTV.jpg",
+                "url": "http://183.89.246.119:8881/play/a081/index.m3u8",
+                "type": "3"
+            },
+            {
+                "id": "456",
+                "title": "MRTV HD",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/9681_MRTV HD.jpg",
+                "url": "http://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8",
+                "type": "1"
+            },
+            {
+                "id": "459",
+                "title": "2D",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/3227_2d.png",
+                "url": "https://www.myanmar123.com/two-d",
+                "type": "2"
+            },
+            {
+                "id": "460",
+                "title": "3D",
+                "crover": "http://mobile.thutalive.xyz/api/../images/channel/6852_13d.png",
+                "url": "https://www.myanmar123.com/3d",
+                "type": "2"
+            }
+        ]
+ 
