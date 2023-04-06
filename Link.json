@@ -475,20 +475,7 @@
                 "crover": "http://mobile.thutalive.xyz/api/../images/channel/9681_MRTV HD.jpg",
                 "url": "http://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8",
                 "type": "1"
-            },
-            {
-                "id": "459",
-                "title": "2D",
-                "crover": "http://mobile.thutalive.xyz/api/../images/channel/3227_2d.png",
-                "url": "https://www.myanmar123.com/two-d",
-                "type": "2"
-            },
-            {
-                "id": "460",
-                "title": "3D",
-                "crover": "http://mobile.thutalive.xyz/api/../images/channel/6852_13d.png",
-                "url": "https://www.myanmar123.com/3d",
-                "type": "2"
             }
+            
         ]
  
